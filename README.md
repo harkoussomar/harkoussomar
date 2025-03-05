@@ -1,5 +1,21 @@
 # 💫 About Me:
-I’m currently studing
+🚀 MERN Stack & Next.js Developer | Full-Stack Engineer
+
+👋 Hi there! I'm Somar Harkous, a passionate Full-Stack Developer skilled in building modern, scalable web applications using the MERN stack, Next.js, and Python. I focus on writing clean, efficient code and crafting seamless user experiences.
+
+🔹 Tech Stack:
+
+    Languages: JavaScript (JS), TypeScript (TS), Python
+    Frontend: React.js, Next.js, Tailwind CSS, Styled-Components
+    Backend: Node.js, Express.js
+    Databases: MySQL, MongoDB, Supabase
+    Tools & DevOps: Git, Vercel
+
+🌟 What I Do:
+✔️ Develop high-performance full-stack web apps
+✔️ Optimize frontend and backend for scalability & efficiency
+✔️ Work with REST 
+✔️ Explore new technologies & best practices
 
 
 ## 🌐 Socials:
