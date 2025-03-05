@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 MERN Stack & Next.js Developer | Full-Stack Engineer
 
-👋 Hi there! I'm Somar Harkous, a passionate Full-Stack Developer skilled in building modern, scalable web applications using the MERN stack, Next.js, and Python. I focus on writing clean, efficient code and crafting seamless user experiences.
+👋 Hi there! I'm omar Harkous, a passionate Full-Stack Developer skilled in building modern, scalable web applications using the MERN stack, Next.js, and Python. I focus on writing clean, efficient code and crafting seamless user experiences.
 
 🔹 Tech Stack:
 
