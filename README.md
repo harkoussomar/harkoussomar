@@ -9,7 +9,7 @@
     Frontend: React.js, Next.js, Tailwind CSS, Styled-Components
     Backend: Node.js, Express.js
     Databases: MySQL, MongoDB, Supabase
-    Tools & DevOps: Git, Vercel
+    Tools: Git, Vercel
 
 🌟 What I Do:
 
