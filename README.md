@@ -12,10 +12,10 @@
     Tools & DevOps: Git, Vercel
 
 🌟 What I Do:
-✔️ Develop high-performance full-stack web apps
-✔️ Optimize frontend and backend for scalability & efficiency
-✔️ Work with REST 
-✔️ Explore new technologies & best practices
+    ✔️ Develop high-performance full-stack web apps
+    ✔️ Optimize frontend and backend for scalability & efficiency
+    ✔️ Work with REST 
+    ✔️ Explore new technologies & best practices
 
 
 ## 🌐 Socials:
