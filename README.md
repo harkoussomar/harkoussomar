@@ -1,155 +1,251 @@
-# OMAR HARKOUSS
-
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=22&duration=4000&pause=1000&color=C8A97E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js;Building+systems+that+scale." />
-
-</div>
 
 <br/>
 
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   Omar Harkouss  ·  Full-Stack Developer                   │
-  │   Kénitra, Morocco  ·  Open to Remote & On-site            │
-  │                                                             │
-  │   Specialized in React / Next.js / Node.js                 │
-  │   Background in Mathematical Sciences                       │
-  │   Master's in Software Engineering — ENSAK                 │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=13&duration=1&pause=999999&color=4A4745&center=true&vCenter=true&width=500&lines=FULL-STACK+DEVELOPER+%C2%B7+K%C3%89NITRA%2C+MOROCCO" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=64&duration=1&pause=999999&color=F2EDE8&center=true&vCenter=true&width=700&height=80&lines=Omar+Harkouss" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=20&duration=4000&pause=1000&color=C8A97E&center=true&vCenter=true&width=640&lines=Building+systems+that+scale%2C+interfaces+that+feel+inevitable." />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Available_for_hire-c8a97e?style=flat-square&labelColor=111113" />
+&nbsp;
+<img src="https://img.shields.io/badge/Remote_%26_On--site-4a4745?style=flat-square&labelColor=111113" />
+&nbsp;
+<img src="https://img.shields.io/badge/Master's_@_ENSAK-4a4745?style=flat-square&labelColor=111113" />
+
+<br/><br/>
+
+</div>
 
 ---
 
+<br/>
+
+> Full-Stack Developer specialized in **React / Next.js / Node.js**, with a background in Mathematical Sciences.
+> Co-creator of **[Architech](https://architech.marnum.com/)** — AI SaaS reducing architecture design time by 80%+.
+> Developer of **[Emploi Portal](https://www.emploiportal.com/)** — complete HR platform with tri-role RBAC and AI-powered CV matching.
+> Author of **10+ web projects**. Currently pursuing a Master's in Software Engineering at ENSAK.
+
+<br/>
+
+---
+
+<br/>
+
 ## Selected Work
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**[Emploi Portal](https://www.emploiportal.com/)** &nbsp;`2026`
+### [Emploi Portal ↗](https://www.emploiportal.com/)
 
-Full-stack HR SaaS platform connecting candidates and recruiters. Covers the full recruitment cycle with AI-powered CV matching, tri-role RBAC, peer-to-peer messaging, and automated PDF parsing.
+![](https://img.shields.io/badge/Freelance_·_Dec_2025_–_Mar_2026-111113?style=flat-square&labelColor=111113&color=18181b)
 
-`Next.js 15` `React 19` `tRPC` `PostgreSQL` `pgvector` `Vercel AI SDK` `Prisma` `Better Auth`
+Full-stack HR SaaS platform connecting candidates and recruiters. Complete recruitment cycle — AI semantic CV matching via `pgvector`, tri-role RBAC, peer-to-peer messaging, automated PDF parsing.
+
+![Next.js 15](https://img.shields.io/badge/Next.js_15-18181b?style=flat-square)
+![React 19](https://img.shields.io/badge/React_19-18181b?style=flat-square)
+![tRPC](https://img.shields.io/badge/tRPC-18181b?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-18181b?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-18181b?style=flat-square)
+![Better Auth](https://img.shields.io/badge/Better_Auth-18181b?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**[Architech](https://architech.marnum.com/)** &nbsp;`2025`
+### [Architech ↗](https://architech.marnum.com/)
 
-AI SaaS platform that transforms a project idea into a complete software architecture — feature list, UML & Mermaid diagrams, folder structure, and interactive development timeline. Reduces design time by 80%+.
+![](https://img.shields.io/badge/PFE_·_Jul_–_Nov_2025-111113?style=flat-square&labelColor=111113&color=18181b)
 
-`Next.js` `TypeScript` `tRPC` `OpenAI` `Gemini` `AgentKit` `Inngest` `Mermaid`
+AI platform that transforms a project idea into complete software architecture — feature list, UML & Mermaid diagrams, folder structure, interactive timeline. Reduces design time by **80%+**.
+
+![Next.js](https://img.shields.io/badge/Next.js-18181b?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-18181b?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-18181b?style=flat-square)
+![AgentKit](https://img.shields.io/badge/AgentKit-18181b?style=flat-square)
+![Inngest](https://img.shields.io/badge/Inngest-18181b?style=flat-square)
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**[Gestion Achats Rapide](https://gestion-achats-green.vercel.app)** &nbsp;`2025`
+### [Gestion Achats Rapide ↗](https://gestion-achats-green.vercel.app)
 
-Full-stack tool purchase request management app with complete validation workflow and 3 user roles — Administrator, Manager, Employee.
+![](https://img.shields.io/badge/Web_App_·_May_2025-111113?style=flat-square&labelColor=111113&color=18181b)
 
-`Next.js 13+` `TypeScript` `Prisma ORM` `PostgreSQL` `NextAuth.js` `Shadcn UI`
+Full-stack tool purchase request management with complete validation workflow and 3 user roles — Administrator, Manager, Employee.
+
+![Next.js 13+](https://img.shields.io/badge/Next.js_13+-18181b?style=flat-square)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-18181b?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-18181b?style=flat-square)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-18181b?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**[CABN-COVE](https://cabn-cove.vercel.app)** &nbsp;`2024`
+### [CABN-COVE ↗](https://cabn-cove.vercel.app)
 
-Luxury cabin reservation management app for internal use. Real-time dashboard with occupancy statistics and a Supabase backend.
+![](https://img.shields.io/badge/Web_App_·_Apr_2024-111113?style=flat-square&labelColor=111113&color=18181b)
 
-`Next.js 15` `React 19` `tRPC` `Supabase` `PostgreSQL` `Prisma` `Recharts`
+Luxury cabin reservation management for internal employee use. Real-time dashboard with occupancy stats and a Supabase backend with integrated authentication.
+
+![Next.js 15](https://img.shields.io/badge/Next.js_15-18181b?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-18181b?style=flat-square)
+![Recharts](https://img.shields.io/badge/Recharts-18181b?style=flat-square)
+![tRPC](https://img.shields.io/badge/tRPC-18181b?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-18181b?style=flat-square)
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Stack
 
-**Frontend**
-```
-React.js  ·  Next.js 13+  ·  TypeScript  ·  Tailwind CSS
-Shadcn UI  ·  Redux Toolkit  ·  React Query  ·  React Hook Form
-```
-
-**Backend**
-```
-Node.js  ·  Express.js  ·  tRPC  ·  Next.js API Routes  ·  RESTful APIs
-Prisma ORM  ·  PostgreSQL  ·  pgvector  ·  MongoDB  ·  Supabase
-```
-
-**AI & Automation**
-```
-Vercel AI SDK  ·  OpenAI  ·  Google Gemini  ·  Groq  ·  AgentKit  ·  Inngest
-```
-
-**Auth & DevOps**
-```
-Clerk  ·  NextAuth.js  ·  Better Auth  ·  RBAC / JWT  ·  OAuth
-Git  ·  GitHub  ·  Vercel  ·  Railway  ·  Cloudinary  ·  Resend
-```
-
----
-
-## GitHub Stats
+<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harkoussomar&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=c8a97e&icon_color=c8a97e&text_color=8a8480&ring_color=c8a97e" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harkoussomar&hide_border=true&background=0a0a0b&stroke=242424&ring=c8a97e&fire=c8a97e&currStreakLabel=c8a97e&sideLabels=8a8480&dates=4a4745&currStreakNum=f2ede8&sideNums=f2ede8" />
-
-</div>
-
-<div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harkoussomar&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=c8a97e&text_color=8a8480" />
-</div>
-
----
-
-## Education
-
-| Period | Degree | Institution |
-|--------|--------|-------------|
-| 2025 — Present | Master's in Software Engineering | ENSAK — Kénitra |
-| 2024 — 2025 | Professional Bachelor's, Computer Engineering | UIR — Rabat |
-| 2020 — 2024 | Associate's, Mathematics & Applications | Faculté Polydisciplinaire — Beni Mellal |
-| 2019 — 2020 | Baccalauréat, Mathematical Sciences | Beni Mellal |
-
----
-
-## Certifications
-
-- The Ultimate React Course — React, Next.js, Redux & More &nbsp;·&nbsp; **Udemy** — Jonas Schmedtmann
-- The Complete Web Developer Bootcamp &nbsp;·&nbsp; **Udemy** — Colt Steele
-
----
-
-## Languages
-
-`Arabic — Native` &nbsp; `French — Fluent` &nbsp; `English — B2`
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-c8a97e?style=flat-square&logo=linkedin&logoColor=0a0a0b)](https://linkedin.com/in/harkouss-omar)
-[![GitHub](https://img.shields.io/badge/GitHub-c8a97e?style=flat-square&logo=github&logoColor=0a0a0b)](https://github.com/harkoussomar)
-[![Instagram](https://img.shields.io/badge/Instagram-c8a97e?style=flat-square&logo=instagram&logoColor=0a0a0b)](https://instagram.com/harkoussomar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-c8a97e?style=flat-square&logo=safari&logoColor=0a0a0b)](https://harkoussomar.github.io/my-portfolio)
-[![Email](https://img.shields.io/badge/Email-c8a97e?style=flat-square&logo=gmail&logoColor=0a0a0b)](mailto:harkouss.omar@gmail.com)
+|  | Technologies |
+|---|---|
+| **Frontend** | React.js · Next.js 13+ · TypeScript · Tailwind CSS · Shadcn UI · Redux Toolkit · React Query · React Hook Form |
+| **Backend** | Node.js · Express.js · tRPC · Next.js API Routes · RESTful APIs · Prisma ORM · PostgreSQL · pgvector · MongoDB |
+| **AI & Automation** | Vercel AI SDK · OpenAI · Google Gemini · Groq · AgentKit · Inngest |
+| **Auth & Security** | Clerk · NextAuth.js · Better Auth · RBAC · JWT · OAuth |
+| **Cloud & Services** | Vercel · Railway · Cloudinary · Resend · Supabase |
+| **Tools** | Git · GitHub · Postman · VS Code · pnpm · FSD / DDD · UML |
+| **Languages** | JavaScript / TypeScript · Python · C / C++ |
 
 </div>
 
 <br/>
 
+---
+
+<br/>
+
+## GitHub Stats
+
+<br/>
+
 <div align="center">
-<sub>harkouss.omar@gmail.com &nbsp;·&nbsp; +212-773757981 &nbsp;·&nbsp; Kénitra, Morocco</sub>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harkoussomar&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=c8a97e&icon_color=c8a97e&text_color=8a8480&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harkoussomar&hide_border=true&background=0a0a0b&stroke=242424&ring=c8a97e&fire=c8a97e&currStreakLabel=c8a97e&sideLabels=8a8480&dates=4a4745&currStreakNum=f2ede8&sideNums=f2ede8" />
+
+</div>
+
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harkoussomar&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=c8a97e&text_color=8a8480&langs_count=6" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harkoussomar&bg_color=0a0a0b&color=4a4745&line=c8a97e&point=f2ede8&area=true&area_color=8a6e50&hide_border=true&custom_title=Contribution+Activity" width="95%" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Education
+
+<br/>
+
+```
+  2025 — Present ·  Master's in Software Engineering & IS Management
+                    École Nationale des Sciences Appliquées — ENSAK, Kénitra
+
+  2024 — 2025    ·  Professional Bachelor's in Computer Engineering
+                    Université Internationale de Rabat — UIR, Rabat
+
+  2020 — 2024    ·  Associate's Degree, Mathematics & Applications
+                    Faculté Polydisciplinaire, Beni Mellal
+
+  2019 — 2020    ·  Baccalauréat, Mathematical Sciences — Option B
+                    Beni Mellal
+```
+
+<br/>
+
+---
+
+<br/>
+
+## Certifications
+
+<br/>
+
+```
+  ·  The Ultimate React Course: React, Next.js, Redux & More
+     Udemy — Jonas Schmedtmann · 2024
+
+  ·  The Complete Web Developer Bootcamp
+     Udemy — Colt Steele · 2023
+```
+
+<br/>
+
+---
+
+<br/>
+
+## Languages
+
+<br/>
+
+<div align="center">
+
+`Arabic — Native` &nbsp;&nbsp; `French — Fluent / Professional` &nbsp;&nbsp; `English — B2`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111113?style=for-the-badge&logo=linkedin&logoColor=c8a97e)](https://linkedin.com/in/harkouss-omar)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-111113?style=for-the-badge&logo=instagram&logoColor=c8a97e)](https://instagram.com/harkoussomar)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111113?style=for-the-badge&logo=vercel&logoColor=c8a97e)](https://harkoussomar.github.io/my-portfolio)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-111113?style=for-the-badge&logo=gmail&logoColor=c8a97e)](mailto:harkouss.omar@gmail.com)
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=13&duration=3000&pause=1000&color=4A4745&center=true&vCenter=true&width=450&lines=harkouss.omar%40gmail.com+%C2%B7++%2B212-773757981+%C2%B7+K%C3%A9nitra%2C+Morocco" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=harkoussomar&label=Profile+Views&color=c8a97e&style=flat-square&labelColor=111113" />
+
 </div>
