@@ -14,45 +14,56 @@
 
 <br>
 
-### `// main`
+## Building
 
-I build full-stack products end to end — from **data models, authorization rules, APIs, and background workflows** to **polished interfaces and AI-assisted features**.
+I build **product systems**, not isolated pages — applications with real users, permissions, workflows, data, integrations, and operational constraints.
 
-Most of my recent work lives around multi-role products, secure business workflows, search, payments, and practical AI integration. I care about software that is **clear to reason about, difficult to misuse, and ready to operate in production**.
+My default environment is **TypeScript / Next.js / PostgreSQL**.  
+When the backend deserves its own weight, I reach for **Java / Spring Boot**.
 
-### `// working set`
+Recently, I've been especially interested in **AI-native workflows, automation, search, authorization, and systems that coordinate multiple actors cleanly**.
 
-```text
-frontend   Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · TanStack Query
-backend    Java · Spring Boot · Node.js · tRPC · REST APIs
-data       PostgreSQL · Prisma ORM · JPA/Hibernate · Flyway · pgvector
-security   Spring Security · Better Auth · OAuth · JWT · RBAC · Zod
-ai         OpenAI · Gemini · Vercel AI SDK
-platform   Docker · Vercel · GitHub · pnpm · Maven · Cloudinary · Stripe
-testing    Vitest · Playwright · Mockito · MockMvc · Testcontainers
-```
+## Defaults
 
-### `// featured repository`
+`Next.js` `TypeScript` `React` `PostgreSQL` `Java` `Spring Boot`
 
-#### [`harkoussomar/zevlance`](https://github.com/harkoussomar/zevlance)
+<details>
+<summary><b>toolbelt</b></summary>
+<br>
 
-A secure, scalable API for a modern freelance marketplace, built around **Java 21, Spring Boot, PostgreSQL, Spring Security, and payment workflows**.
+**Application**  
+tRPC · REST · TanStack Query · Prisma · JPA / Hibernate · Flyway
 
-`Java 21` `Spring Boot` `PostgreSQL` `Spring Security` `Stripe` `Docker`
+**Security**  
+Spring Security · Better Auth · OAuth · JWT · RBAC · Zod
 
-### `// how I like to build`
+**AI**  
+OpenAI · Gemini · Vercel AI SDK · pgvector
 
-<table>
-<tr>
-<td width="25%"><b>Architecture</b><br><sub>clear boundaries & explicit domain rules</sub></td>
-<td width="25%"><b>Reliability</b><br><sub>validation, transactions & tests</sub></td>
-<td width="25%"><b>Security</b><br><sub>auth, ownership & least privilege</sub></td>
-<td width="25%"><b>Product</b><br><sub>useful workflows over feature noise</sub></td>
-</tr>
-</table>
+**Platform**  
+Docker · Vercel · GitHub · pnpm · Maven · Stripe · Cloudinary
 
-### `// elsewhere`
+**Testing**  
+Vitest · Playwright · Mockito · MockMvc · Testcontainers
 
-[`portfolio`](https://o-harkouss.vercel.app/) ·
-[`linkedin`](https://www.linkedin.com/in/omar-harkouss-2071b9304) ·
-[`email`](mailto:harkouss.omar@gmail.com)
+</details>
+
+## Engineering notes
+
+- **Make state explicit.** Hidden state becomes production bugs.
+- **Authorization is domain logic.** “Logged in” is not the same as “allowed.”
+- **Prefer boring foundations.** Complexity should solve a real constraint.
+- **Design for change.** Good boundaries make the next feature cheaper.
+- **AI has to earn its place.** If it doesn't remove work or improve a decision, it is noise.
+
+## This GitHub
+
+You'll mostly find experiments and product work around **full-stack systems, backend architecture, automation, and applied AI**.
+
+Some projects are public. Others are client, academic, or product work and stay private.
+
+<div align="center">
+
+<sub>build → measure → simplify → ship</sub>
+
+</div>
